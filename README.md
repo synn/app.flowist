@@ -1,2 +1,2 @@
-# flora
-Flow app
+# flowist
+Flowist app
